@@ -1,0 +1,13 @@
+{
+      "name": "@parent-repo/ui",
+      "version": "1.0.0",
+      "main": "index.js",
+      "type": "module",
+      "dependencies": {
+        "@parent-repo/utils": "workspace:*"
+      },
+      "scripts": {
+     "build": "echo 'Собираем ui... готово.'",
+     "test": "echo 'Тесты для ui пройдены!'"
+   }
+    }

@@ -1,5 +1,10 @@
 {
   "name": "@parent-repo/utils",
   "version": "1.0.0",
-  "main": "index.js"
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  "build": "echo 'Собираем utils... готово.'",
+  "test": "echo 'Тесты для utils пройдены!'"
+}
 }

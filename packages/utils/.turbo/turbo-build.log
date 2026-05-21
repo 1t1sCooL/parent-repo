@@ -1,0 +1,6 @@
+
+
+> @parent-repo/utils@1.0.0 build /Users/worker/Work/test/parent-repo/packages/utils
+> echo 'Собираем utils... готово.'
+
+Собираем utils... готово.

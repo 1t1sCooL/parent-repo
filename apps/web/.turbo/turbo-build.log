@@ -1,0 +1,8 @@
+
+
+> web-app@1.0.0 build /Users/worker/Work/test/parent-repo/apps/web
+> node index.js
+
+Запускаем наше приложение...
+Сгенерированный HTML компонента:
+<button id="hello-world">Hello World!</button>

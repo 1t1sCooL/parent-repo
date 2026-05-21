@@ -1,0 +1,14 @@
+{
+  "name": "parent-repo",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@10.33.1",
+  "scripts": {
+    "build": "turbo build",
+    "start": "turbo start",
+    "test": "turbo test"
+  },
+  "dependencies": {
+    "turbo": "^2.9.14"
+  }
+}

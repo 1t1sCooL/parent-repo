@@ -1,0 +1,6 @@
+
+
+> @parent-repo/ui@1.0.0 build /Users/worker/Work/test/parent-repo/packages/ui
+> echo 'Собираем ui... готово.'
+
+Собираем ui... готово.
